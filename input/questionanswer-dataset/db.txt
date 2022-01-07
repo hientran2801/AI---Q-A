@@ -1,0 +1,20 @@
+ArticleTitle	Question	Answer	AnswerA	AnswerB	AnswerC	AnswerD
+Trần Hiền	Định lý Pytago?	A	A. a^2 = b^2 + c^2	B. a^2 = b^2 - c^2	C. a^2 = - b^2 - c^2	D. a^2 = b^2
+Tống Mai	Thủ đô của Nhật Bản?	B	A. Osaka	B. Tokyo	C. Hà Nội	C. Lôn Đôn
+Nguyễn Hiền	Trong dao động điều hòa của một vật thì tập hợp 3 đại lượng nào sau đây là không thay đổi theo thời gian?	A	A. Biên độ, tần số, cơ năng dao động	B. Biên độ, tần số, gia tốc	C. Động năng, tần số, lực hồi phục	D. Động năng, vận tốc, lực hồi phục
+Vũ Bích Ngọc	Thể tích của khối cầu có bán kính 6cm là?	B	A. 216pi (cm^3)	B. 288pi (cm^3)	C. 432pi (cm^3)	D. 100 (cm^3).
+Trần Hiền	Hãy cho biết thương nhân nước ngoài bị hấp dẫn những sản vật gì ở các quốc gia phong kiến Đông Nam Á?	C	A. Vàng bạc.	B. Gia vị.	C. Tơ lụa.	D. Phong tục.
+Trần Hiền	Một số quốc gia ở Đông Nam Á biển đảo nằm ở vành đai lửa nào sau đây?	D.	A. Ấn Độ Dương.	B. Bắc Băng Dương.	C. Đại Tây Dương	D. Thái Bình Dương
+Trần Hiền	Một vật dao động điều hòa theo phương trình x=5cos(4pit+pi/3)cm. Biên độ dao động của vật là 	A. 	A. 5cm	B. 10 cm	C. 15 cm	D. 0 cm
+Trần Hiền	The tree ________ near the gate of my house has lovely flowers?	A	A. standing	B.stood	C.to stand	D.stand
+Trần Hiền	We go ………… the wall to see flowers	D	A. through	B. along	C. past	D. in
+Trần Hiền	Trong 110 nguyên tố đã biết,có tới gần 90 nguyên tố là kim loại. Các nguyên tố kim loại có cấu hình e lớp ngoài cùng là?	D.	A.nhiều e	B.gần bão hòa	C.ít e	D.bão hòa
+Trần Hiền	Một cation kim loại M có cấu hình e ở lớp ngoài cùng là 2s22p6 . Vậy cấu hình e ở lớp ngoài cùng của nguyên tử kim loại M là	A	A. 3s1	B. 3s23p1	C. 3s1	D. Cả A, B, C đều đúng
+Trần Hiền	Giả sử ở một loài thực vật có bộ nhiễm sắc thể 2n = 8, các cặp nhiễm sắc thể tương đồng được kí hiệu là Aa, Bb, Dd và Ee. Trong các dạng đột biến lệch bội sau đây, dạng nào không phải là thể một kép?	D	A. AbbDdEe	B. ABbdEe.	C. AaBdEe	D. ABbDde.
+Trần Hiền	Sự ra đời và hoạt động của Hội Việt Nam Cách mạng Thanh niên (tháng 6- 1925) không tác động đến việc	B	A. thúc đẩy sự phát triển của phong trào công nhân.	B. góp phần đào tạo cán bộ cho cách mạng Việt Nam.	C. truyên tuyền vận động cách mạng cho nhân dân Việt Nam.	D. làm cho khuynh hướng tư sản phát triển mạnh ở Việt Nam
+Trần Hiền	Who suggested Lincoln grow a beard?	Grace Bedell.
+Trần Hiền	Where did Volta enter retirement?	Spain
+Trần Hiền	When did the Gettysburg address argue that America was born?	1776.
+Trần Hiền	Was Volta an Italian physicist?	yes
+Trần Hiền	Did Lincoln beat John C. Breckinridge in the 1860 election?	Yes.
+Trần Hiền	Was Abraham Lincoln the first President of the United States?	No
